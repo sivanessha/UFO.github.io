@@ -1,2 +1,3 @@
 name : UFO, Unifed Oscillation
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
